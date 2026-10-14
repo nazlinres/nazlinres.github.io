@@ -30,27 +30,27 @@ My theoretical framework in this area is built on **cognitive biases**, **heuris
 
 ## Goals: From Theory to Practice, From Earth to Space
 
-### Short Term (0–2 years)
+### Short Term (0 to 2 years)
 
 - Publish my first systematic review on an **open-access** platform
 - Develop an open-source Python library for syscall-based anomaly detection
 - Produce video content with theoretical depth and contribute to the open-access knowledge network
 
-### Mid Term (2–5 years)
+### Mid Term (2 to 5 years)
 
 - Present a paper at an international conference as an **independent researcher**
 - Establish collaborations with researchers in my field without hierarchy
-- Complete my doctoral education — but **by following my own questions**
+- Complete my doctoral education, but **by following my own questions**
 
-### Long Term (5–15 years)
+### Long Term (5 to 15 years)
 
 - Establish my independent research identity at an international level
 - Carry cybersecurity knowledge to **places where money is not**
-- Mentor young researchers — encouraging them not to conform to the system, but to **question it**
+- Mentor young researchers, encouraging them not to conform to the system, but to **question it**
 
 ### Radical Vision (15+ years)
 
-- **Go to space.** Yes, I am serious. Humanity's next leap is beyond Earth. Cybersecurity will play a critical role in space systems as well. Satellite communication, ground stations, orbital systems — all are vulnerable. I want to work in this area and contribute to the security of spacecraft and communication systems.
+- **Go to space.** Yes, I am serious. Humanity's next leap is beyond Earth. Cybersecurity will play a critical role in space systems as well. Satellite communication, ground stations, and orbital systems are all vulnerable. I want to work in this area and contribute to the security of spacecraft and communication systems.
 - **Found an independent research institute.** An open-access, hierarchy-free knowledge production center as an alternative to institutional academia.
 - **Carry cybersecurity education to regions with limited access.** Knowledge knows no borders.
 
